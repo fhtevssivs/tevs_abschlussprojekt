@@ -1,3 +1,5 @@
+[![Deutsch](https://img.shields.io/badge/lang-de-red.svg)](README.md) [![English](https://img.shields.io/badge/lang-en-blue.svg)](README-EN.md)
+
 # ANGABE TEVS ABSCHLUSSARBEIT 
 
 Zusätzlich zu den Vorlesungen der Lehrveranstaltung "Technologien verteilter Systeme" sollen Sie in Form einer Projektarbeit eine Abschlussarbeit fertigen.
